@@ -1,0 +1,6 @@
+This repository contains the laboratory code from the second edition of
+Introduction to Statistical Learning with Applications in R by James, Witten, Hastie, Tibshirani ported to Python.
+
+Some code is adapted from first edition ports at:
+- https://github.com/JWarmenhoven/ISLR-python/
+- https://www.science.smith.edu/~jcrouser/SDS293/labs/
